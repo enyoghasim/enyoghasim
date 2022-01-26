@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Gift</h1>
 - 📫 How to reach me **geezyenyoghasim@gmail.com**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=enyoghasim)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
